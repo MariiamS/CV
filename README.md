@@ -1,1 +1,204 @@
-# PROJET
+<!DOCTYPE html>
+<html lang="fr">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="shortcut icon" href="assets/ico/favicon.png">
+
+    <title>Mariam Saabar</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="assets/css/bootstrap.css" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="assets/css/main.css" rel="stylesheet">
+    
+	<link rel="stylesheet" href="assets/css/font-awesome.min.css">
+    
+    <link href='http://fonts.googleapis.com/css?family=Lato:300,400,700,300italic,400italic' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Raleway:400,300,700' rel='stylesheet' type='text/css'>
+    
+    <script src="assets/js/jquery.min.js"></script>
+    <script type="text/javascript" src="assets/js/smoothscroll.js"></script> 
+    <script src="assets/js/Chart.js"></script>
+
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="assets/js/html5shiv.js"></script>
+      <script src="assets/js/respond.min.js"></script>
+    <![endif]-->
+  </head>
+
+  <body data-spy="scroll" data-offset="0" data-target="#nav">
+
+	<div id="section-topbar">
+		<div id="topbar-inner">
+			<div class="container">
+				<div class="row">
+					<div class="dropdown">
+						<ul id="nav" class="nav">
+							<li class="menu-item"><a class="smoothScroll" href="#Informations" title="Informations"><i class="icon-user"></i></a></li>
+							<li class="menu-item"><a class="smoothScroll" href="#Cursus" title="Cursus"><i class="icon-book"></i></a></li>
+							<li class="menu-item"><a class="smoothScroll" href="#Competences" title="Competences"><i class="icon-briefcase"></i></a></li>
+							<li class="menu-item"><a class="smoothScroll" href="#Loisirs et interets" title="Loisirs et interets"><i class="icon-plane"></i></a></li>
+						</ul><!--/ uL#nav -->
+					</div><!-- /.dropdown -->
+
+					<div class="clear"></div>
+				</div><!--/.row -->
+			</div><!--/.container -->
+
+			<div class="clear"></div>
+		</div><!--/ #topbar-inner -->
+	</div><!--/ #section-topbar -->
+	
+	<div id="headerwrap">
+		<div class="container">
+			<div class="row centered">
+				<div class="col-lg-12">
+					<h1>Mariam Saabar</h1>
+					<h3>Eleve ingénieur | Génie électrique | ENSAM Casablanca </h3>
+					<meta charset="ISO-8859-1">
+				</div><!--/.col-lg-12 -->
+			</div><!--/.row -->
+		</div><!--/.container -->
+	</div><!--/.#headerwrap -->
+	
+
+	<section id="Informations" name="Informations"></section>
+	<div id="intro">
+		<div class="container">
+			<div class="row">
+				
+				<div class="col-lg-2 col-lg-offset-1">
+					<h5>INFORMATIONS</h5>
+				</div>
+				<div class="col-lg-6">
+					20 ans - Marocaine</p>
+					<p>App 4 immeuble 4 Tikiouine-Residence ASSABAH </br>
+					10120 RABAT</p>
+					<p> +212 678807064</p>
+					<p> mariam-saber@hotmail.fr</p>
+					<p> Permis B </p>
+				</div>
+								
+			</div><!--/.row -->
+		</div><!--/.container -->
+	</div><!--/ #intro -->
+
+
+	<section id="Cursus" name="Cursus"></section>
+	<!--EDUCATION DESCRIPTION -->
+	<div class="container desc">
+		<div class="row">
+
+				<div class="col-lg-2 col-lg-offset-1">
+					<h5>CURSUS</h5>
+				</div>
+				<div class="col-lg-6">
+					<p><t>Ecole Nationale Supérieure des Arts et Metiers | Casablanca </t><br/>
+						2015-2016 : Première année du cycle ingénieur - Spécialité : <bold>Génie électrique</bold><br/>
+						<meta charset="ISO-8859-1">
+					</p>
+				</div>
+				<div class="col-lg-3">
+					<imp><sm>IN PROGRESS</sm></imp>
+					</p>
+				</div>
+	
+				<div class="col-lg-6 col-lg-offset-3">
+					<p><t>Ecole Nationale Supérieure des Arts et Metiers | Casablanca</t><br/>
+						2013-2015 : cycle préparatoire integré <br/>
+						<meta charset="ISO-8859-1">
+					</p>
+				</div>
+
+				<div class="col-lg-6 col-lg-offset-3">
+					<p><t>Lycée Al Azhar | Khouribga</t><br/>
+						2012-2013 : Baccalauréat scientifique - Mention BIEN <br/>
+						<meta charset="ISO-8859-1">
+					</p>
+				</div>
+	
+		</div><!--/.row -->
+		<br>
+		<hr>
+	</div><!--/.container -->
+	
+	
+	<!--COMPETENCES DESCRIPTION -->
+	<section id="Competences" name="Competences"></section>
+	<div class="container desc">
+		<div class="row">
+
+				<div class="col-lg-2 col-lg-offset-1">
+					<h5>COMPETENCES</h5>
+				</div>
+				<div class="col-lg-6">
+					<p><t>Languages et Programmation</t><br/>
+					</p>
+					<p><bold>-</bold> Systèmes d'exploitation : WINDOWS - LINUX - MS DOS</p>
+					<p><bold>-</bold>Bureautique : Pack OFFICE</p>
+					<p><bold>-</bold>Langages de programmation : C - C++ - UML - Oracle</p>
+					<p><bold>-</bold>Matlab</p>
+					<p><bold>-</bold>Maple</p>
+					<p><bold>-</bold>Conception assistée par ordinateur : CATIA</p>
+					<p><bold>-</bold>Grafcet</p>
+					<p><bold>-</bold>LabView</p>
+					<p><bold>-</bold>Siemens simatic step 7</p>
+					<p><bold>-</bold>Photoshop</p>
+					<p><bold>-</bold>Logiciel R</p>
+					<meta charset="ISO-8859-1">
+				</div>
+				
+	
+				<div class="col-lg-6 col-lg-offset-3">
+					<p><t>Langues </t><br/>
+					</p>
+					<p><bold>-</bold>Arabe : Maternel</p>
+					<p><bold>-</bold>Francais : Courant</p>
+					<p><bold>-</bold>Anglais : Courant</p>
+					<p><bold>-</bold>Espagnol : Débutant</p>
+				</div>
+				
+		</div><!--/.row -->
+		<br>
+		<hr>
+	</div><!--/.container -->
+	
+	
+	
+	
+
+
+	<section id="Loisirs et interets" name="Loisirs et interets"></section>
+	<!--FOOTER DESCRIPTION -->
+	<div id="footwrap">
+		<div class="container">
+			<div class="row">
+			
+				<div class="col-lg-2 col-lg-offset-1">
+					<h5>LOISIRS ET CENTRES D'INTERETS</h5>
+					</div>
+					<div class="col-lg-6 col-lg-offset-3">
+					
+					
+					<p><bold>-</bold>Voyages</p>
+					<p><bold>-</bold>Sport ( Tennis - Equitation )</p>
+					<p><bold>-</bold>Lecture ( Roman - Presse )</p>
+					
+				</div>
+				
+			</div><!--/.row -->
+		</div><!--/.container -->
+	</div><!--/ #footer -->
+	
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="assets/js/bootstrap.js"></script>
+  </body>
+</html>
